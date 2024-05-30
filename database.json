@@ -1,29 +1,69 @@
 {
-    "jokes": [
-      {
-        "id": 1,
-        "text": "I went to buy some camo pants but couldn’t find any.",
-        "told": false
-      },
-      {
-        "id": 2,
-        "text": "I always find elevator jokes to be uplifting.",
-        "told": false
-      },
-      {
-        "id": 3,
-        "text": "Most people are shocked when they find out how bad I am as an electrician.",
-        "told": true
-      },
-      {
-        "id": 4,
-        "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
-        "told": false
-      },
-      {
-        "id": 5,
-        "text": "I failed math so many times at school, I can’t even count",
-        "told": true
-      }
-    ]
-  }
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": true
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": true
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": true
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": true
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "id": 6,
+      "text": "Hi I'm Cliff. Drop over sometime.",
+      "told": false
+    },
+    {
+      "id": 7,
+      "text": "I made a song about tortilla once, now it's more like a wrap.",
+      "told": false
+    },
+    {
+      "id": 8,
+      "text": "I found a book called How to Solve 50% of Your Problems. So I bought 2.",
+      "told": false
+    },
+    {
+      "id": 9,
+      "text": "I stayed up all night wondering where the sun went, and then it dawned on me.",
+      "told": false
+    },
+    {
+      "id": 10,
+      "text": "Justice is a dish best served cold. Otherwise, it's just water.",
+      "told": false
+    },
+    {
+      "id": 11,
+      "text": "I have an inferiority complex, but it's not a very good one.",
+      "told": false
+    },
+    {
+      "id": 12,
+      "text": "A man walked into his house and was delighted when he discovered that someone had stolen all of his lamps.",
+      "told": false
+    },
+    {
+      "id": 13,
+      "text": "When my toothpaste dropped to the ground, I was crestfallen.",
+      "told": false
+    }
+  ]
+}
